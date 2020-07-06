@@ -205,7 +205,12 @@ o nama css*/
 	width: 2%;
 }
 
-
+.video{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	display: block;
+}
 
 
 
